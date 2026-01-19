@@ -25,7 +25,7 @@ A high-performance, asynchronous **Discord Token Checker** written in Python. Th
 
 1.  **Clone the repository** (or download the source code):
     ```bash
-    git clone https://github.com/yourusername/token-checker.git
+    git clone https://github.com/Ver3xl/Discord-Token-Checker.git
     cd token-checker
     ```
 
@@ -54,3 +54,4 @@ This tool is developed for **educational purposes only**. The developer is not r
 
 ---
 Made with ❤️ by [Your Name]
+
